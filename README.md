@@ -1,6 +1,6 @@
 # Network-project
-## multithreading
-### python
+## Multithreading
+### Python
 #### Socket programming + Tkinter GUI
-a Chatroom App using TCP conncetion .
-features : login with hash , broadcasting , saving messages in a file
+A Chatroom App using TCP conncetion .
+Features : login with hash , broadcasting , saving messages in a file
